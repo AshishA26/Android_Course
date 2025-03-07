@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.RecordKeeper" parent="Theme.AppCompat.DayNight.DarkActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">#0067AE</item>
+        <item name="colorPrimaryDark">#02497A</item>
+        <item name="colorAccent">#1975B5</item>
+    </style>
+
+    <style name="Theme.RecordKeeper" parent="Base.Theme.RecordKeeper" />
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name ="app_name">Auto-promotion sans</string>
+    <string name="hint_contact_name">Nom du contact</string>
+    <string name="hint_contact_number">numero du contact</string>
+
+
+</resources>
